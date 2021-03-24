@@ -63,14 +63,14 @@ limitawal = 25
 memberlimit = 10
 ator = 'Riki'
 namo = 'jangan colong'
-cr = '*BobaBot\nYoutube: GrowCastl*'
+cr = '*BobaBot\nYoutube: GrowCastle*'
 vz = '*THANKS*'
 vr = '*THANKS*'
 /*************************************/
 
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6285860881269@s.whatsapp.net"] 
+const ownerNumber = ["6285860881269@s.whatsapp.net","6281229324172 "]
 /************************************/
 
        
